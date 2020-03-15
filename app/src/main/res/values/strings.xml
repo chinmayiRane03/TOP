@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">TrackOnPark</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="back"><![CDATA[<<]]></string>
+    <string name="username_hint"><font size="15">Username</font></string>
+    <string name="password_hint"><font size="15">Password</font></string>
+    <string name="email_hint"><font size="15">Email</font></string>
+    <string name="phone_hint"><font size="15">Phone</font></string>
+    <string name="SPIT">Sardar Patel Institute of Technology (S.P.I.T)</string>
+    <string name="loc_name">CurrentLocation</string>
+    <string name="map_key" translatable="false">
+        AIzaSyDTBr8P8NwoeGIYPqqzyZahaFRkFgtOHJk
+    </string>
+    <string name="describe"><font size="20">The institute is located in 47 acres of green campus at Andheri (W), the fastest growing suburb of Mumbai. The campus also houses four Bhavan’s Institutions of great repute namely Bhavan’s College (the arts, commerce and science college), Sardar Patel College of Engineering – Government aided Engineering college, S.P. Jain Institute of Management and Research, a management institute and A.H. Wadia, higher secondary school.
+
+In 1957, the Bharatiya Vidya Bhavan conceived the idea of establishing an engineering college in Mumbai. Sardar Patel College of Engineering was inaugurated on 19th August 1962.
+
+        In 1995 self-financed engineering courses were added to it and it functioned as Sardar Patel College of Engineering (Unaided-wing) conducting Electronics Engineering, Computer Engineering and Information Technology Courses and Masters course in Electronics since 2005 till 2008. These courses have earned a great reputation in the field of engineering education, as well as industry. Bharatiya Vidya Bhavan’s Sardar Patel College of Engineering, Unaided Wing was established in its new building under the name and style of Bharatiya Vidya Bhavan’s Sardar Patel Institute of Technology since 2005 and is affiliated to Mumbai University.</font></string>
+
+    <string name="write">In case of any difficulty, please contact us on:</string>
+    <string name="mail">trackonpark@gmail.com</string>
+    <string name="help"><font size="20">One can register or sign in with their Google Account to the application.
+The main page of the application is divided into three main regions which are Log Entries, My Location, Settings.
+The number of abandoned vehicle along with their location details will be mentioned in the Log Entries.
+My Location will show you your current location.
+Settings is given for extra help purpose.
+In case of any difficulty,please contact us on trackonpark@gmail.com </font></string>
+
+    <string name="disclaimer"><font size="20">1.)This app is intended to be used only by the BMC officials. 2) The information contained on  Acquisition app and the Firebase linked with it,  is for general information purposes only. 3) Any unauthorized uploading of contents and /or violation of Intellectual property rights is the sole responsibility of the user. 4) We only collect photos uploaded on the application through the user’s login id for our dataset requirement. Except this, we don’t collect any personal information or data from the user. 5) In no event, we shall be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other arising out of or in connection with the use of the Service or the contents of the Service. 6) We reserve the right to make additions, deletions, or modification to the contents on the Service at any time without prior notice.</font></string>
+
+    <string name="bharatiya_vidya_bhavan_s">Bharatiya Vidya Bhavan\'s</string>
+    <string name="sardar_patel_institute_of_technology">Sardar Patel Institute of Technology</string>
+    <string name="s_p_i_t_andheri">(S.P.I.T), Andheri.</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="policy"><![CDATA[By creating new account, you agree to our    Terms of Services & Privacy Policy.]]></string>
+    <string name="or_log_in_with">Or log in with</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="knowledge_associate">Knowledge Associate</string>
+
+
+    <string name="app_name2">Track\On Park</string>
+    <string name="welcome_text">Welcome to Track On Park</string>
+    <string name="tag_line">Your safety is our concern</string>
+    <string name="login_text_btn">LOGIN</string>
+    <string name="register_text_btn">REGISTER</string>
+    <string name="tnc">By creating new account,you agree to our
+\nTerms of Services &amp; Privacy Policy</string>
+    <string name="or_log_in">Or log in with</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="welcome_back_sub">Please login to your account</string>
+
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="dont_have_account">Dont\'t have an account</string>
+    <string name="have_account">Already Registered ?</string>
+    <string name="register_now">Register Now</string>
+    <string name="login_now">Login Now</string>
+
+    <string name="register_new">Register New Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+
+
+</resources>
